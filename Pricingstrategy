@@ -1,0 +1,11 @@
+{
+  "name": "NERO_TATTOO_05_PricingStrategy",
+  "description": "Smart prissättning",
+  "instructions": "Denna modul innehåller: Prispsykologi, rabatter, bokningsavgifter och paketstrategi.",
+  "data": {
+    "module_number": 5,
+    "title": "Smart prissättning",
+    "details": "Prispsykologi, rabatter, bokningsavgifter och paketstrategi."
+  },
+  "notes": "Denna fil är en aktiv del av NERO TATTOO™ och redo för användning."
+}
