@@ -1,0 +1,11 @@
+{
+  "name": "NERO_TATTOO_04_CaptionTemplates",
+  "description": "Säljande caption-texter",
+  "instructions": "Denna modul innehåller: Färdiga texter för att sälja erbjudanden och boka tider.",
+  "data": {
+    "module_number": 4,
+    "title": "Säljande caption-texter",
+    "details": "Färdiga texter för att sälja erbjudanden och boka tider."
+  },
+  "notes": "Denna fil är en aktiv del av NERO TATTOO™ och redo för användning."
+}
