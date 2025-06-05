@@ -1,0 +1,11 @@
+{
+  "name": "NERO_TATTOO_17_CustomerEngagement",
+  "description": "DM och kundkontakt",
+  "instructions": "Denna modul innehåller: Hur du skriver DM, följer upp och får återkommande kunder.",
+  "data": {
+    "module_number": 17,
+    "title": "DM och kundkontakt",
+    "details": "Hur du skriver DM, följer upp och får återkommande kunder."
+  },
+  "notes": "Denna fil är en aktiv del av NERO TATTOO™ och redo för användning."
+}

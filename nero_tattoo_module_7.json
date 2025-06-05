@@ -1,0 +1,11 @@
+{
+  "name": "NERO_TATTOO_07_BookingSystem",
+  "description": "Fyll kalendern",
+  "instructions": "Denna modul innehåller: Tips och texter för att boka upp veckor i förväg.",
+  "data": {
+    "module_number": 7,
+    "title": "Fyll kalendern",
+    "details": "Tips och texter för att boka upp veckor i förväg."
+  },
+  "notes": "Denna fil är en aktiv del av NERO TATTOO™ och redo för användning."
+}

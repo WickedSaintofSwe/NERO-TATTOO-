@@ -1,0 +1,11 @@
+{
+  "name": "NERO_TATTOO_16_WeekPlanner",
+  "description": "Veckoplan för innehåll",
+  "instructions": "Denna modul innehåller: Planera 5 dagar framåt – automatiskt och enkelt.",
+  "data": {
+    "module_number": 16,
+    "title": "Veckoplan för innehåll",
+    "details": "Planera 5 dagar framåt – automatiskt och enkelt."
+  },
+  "notes": "Denna fil är en aktiv del av NERO TATTOO™ och redo för användning."
+}

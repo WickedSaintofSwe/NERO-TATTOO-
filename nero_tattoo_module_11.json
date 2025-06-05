@@ -1,0 +1,11 @@
+{
+  "name": "NERO_TATTOO_11_LegalBasics",
+  "description": "Samtycke & regler",
+  "instructions": "Denna modul innehåller: Kundgodkännande, GDPR och hygienrutiner (basicversion).",
+  "data": {
+    "module_number": 11,
+    "title": "Samtycke & regler",
+    "details": "Kundgodkännande, GDPR och hygienrutiner (basicversion)."
+  },
+  "notes": "Denna fil är en aktiv del av NERO TATTOO™ och redo för användning."
+}

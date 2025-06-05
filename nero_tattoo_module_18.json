@@ -1,0 +1,11 @@
+{
+  "name": "NERO_TATTOO_18_BookModuleSlot",
+  "description": "RESERVERAD: Boken",
+  "instructions": "Denna modul innehåller: Denna modul är tom och redo att fyllas med Tattoo Hustler-boken.",
+  "data": {
+    "module_number": 18,
+    "title": "RESERVERAD: Boken",
+    "details": "Denna modul är tom och redo att fyllas med Tattoo Hustler-boken."
+  },
+  "notes": "Denna fil är en aktiv del av NERO TATTOO™ och redo för användning."
+}
