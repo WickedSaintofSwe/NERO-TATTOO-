@@ -1,0 +1,11 @@
+{
+  "name": "NERO_TATTOO_01_CoreSystem",
+  "description": "Systemprompt och huvudlogik",
+  "instructions": "Denna modul innehåller: Innehåller den centrala intelligensen som styr NERO TATTOO™.",
+  "data": {
+    "module_number": 1,
+    "title": "Systemprompt och huvudlogik",
+    "details": "Innehåller den centrala intelligensen som styr NERO TATTOO™."
+  },
+  "notes": "Denna fil är en aktiv del av NERO TATTOO™ och redo för användning."
+}
